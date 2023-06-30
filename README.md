@@ -33,11 +33,10 @@ Para la convivencia y supervivencia en este servidor, los jugadores tienen permi
   <img width="800" height="400" src="img/invierno.png">
 </p>
 
-
 2. El mapa de **CHARLETACRAFT 2** se ubica en un archipielago compuesto por 5 islas con una forma similar a la de una mano. Aquí dentro existen ciertas normas climaticas como se puede apreciar con la parte norte del mapa y la zona equatorial, siendo por una parte, una zona gélida y la otra desertica respectivamente. Entre estas dos, podemos encontrar los biomas cambiantes de climas comentados anteriormente. La selección de donde vivirán los jugadores será elegido aleatoriamente dependiendo de la suerte de este. Puede que de primeras, te encuetres encerrado en el Nether sin poder salir hasta que alguien te rescate, o que te toque vivir en un bioma de cerezo, donde las condiciones puedan ser muy refrescantes. (Este cáos de decisiones lo explicaré más adelante)
 
 <p align="center">
   <img width="800" height="1200" src="img/mapacharletacraft.png">
 </p>
 
-3. En el inicio del servidor, será muy importante mantenerse en la isla donde se generarán todos los jugadores, debido a que se jugará a un juego de separación, los juegadores que quieran convivir conjuntamente, deberán mantenerse juntos delante de las adversidades y los eventos atrozes que se vayan presentando.
+3. En el inicio del servidor, será muy importante mantenerse en la isla donde se generarán todos los jugadores, debido a que se jugará a un juego de separación, los juegadores que quieran convivir conjuntamente, deberán mantenerse juntos delante de las adversidades y los eventos atrozes que se vayan presentando. El juego consistirá en un sistema de elección de 3 puertas, en la que deberás elegir la correcta para continuar con las siguientes pruebas donde también habrán otras puertas.
