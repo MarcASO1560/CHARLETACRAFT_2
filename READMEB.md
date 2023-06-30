@@ -40,3 +40,28 @@ For the convenience and the survival in this server, the "gay"mers are allowed t
 <p align="center">
   <img width="800" height="1200" src="img/mapacharletacraft.png">
 </p>
+
+3. When the server launches, it will be key to remain in the island where all the players spawn, due to the fact that the server will follow a separation format, those who wish to live toghether, must remain together to face the adversities and the heinous events that may arise.
+The game will be based on a 3 door choice system, in which you must choose the fitting to move onto the next challenges where you will be presented with new doors.
+If a player chooses the incorrect door, they will be teleproted into a new environment and from then on their adventure begins.
+(Evidently they will not be able to resume the game unless thye voluntarily go back to the original spawn point).
+
+<p align="center">
+  <img width="800" height="400" src="img/puertas.png">
+</p>
+
+4. Inside the server...
+
+<p align="center">
+  <img width="800" height="400" src="img/mod1.png">
+</p>
+<p align="center">
+  <img width="800" height="400" src="img/mod2.png">
+</p>
+<p align="center">
+  <img width="800" height="400" src="img/mod3.png">
+</p>
+<p align="center">
+  <img width="800" height="400" src="img/mod4.png">
+</p>
+
