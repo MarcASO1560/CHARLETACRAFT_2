@@ -20,4 +20,18 @@ Para la convivencia y supervivencia en este servidor, los jugadores tienen permi
 
 1. Dentro del mundo de **CHARLETACRAFT 2** existen distintas islas con distintos climas y biomas. Durante las horas que irán pasando, la temperatura de ciertos biomas, cambiará y creará un sistema complejo de estaciones que será distinto en las distintas zonas e islas del mapa. En conseqüencia, muchos cultivos dependerán de ciertas estaciones y será preciso manejar con buenas manos todas las oportunidades de comida que se crucen por tu camino.
 
-2. El mapa de **CHARLETACRAFT 2** se ubica en un archipielago compuesto por 
+<p align="center">
+  <img width="800" height="400" src="img/primavera.png">
+</p>
+<p align="center">
+  <img width="800" height="400" src="img/verano.png">
+</p>
+<p align="center">
+  <img width="800" height="400" src="img/otoño.png">
+</p>
+<p align="center">
+  <img width="800" height="400" src="img/invierno.png">
+</p>
+
+
+3. El mapa de **CHARLETACRAFT 2** se ubica en un archipielago compuesto por 
