@@ -15,7 +15,7 @@ Although it isn’t pleasent to add rules to the server, i see myself forced to 
 - Respect the environment to avoid a massive destruction of the world.
 
 
-## Explicación de convivencia:
+## About the game:
 
 For the convenience and the survival in this server, the "gay"mers are allowed to enter the 24 hours of the day and the 7 days of the week, if one player leaves the server the rest of the "gay"mers can take advantatge of the resources and structures created by this player.
 
