@@ -19,7 +19,6 @@ Although it isn’t pleasent to add rules to the server, i see myself forced to 
 
 For the convenience and the survival in this server, the "gay"mers are allowed to enter the 24 hours of the day and the 7 days of the week, if one player leaves the server the rest of the "gay"mers can take advantatge of the resources and structures created by this player.
 
-
 1. Inside the world of **CHARLETACRAFT 2** exist different islands with differents climates and biomes. During the hours that will pass, the temperature of some biomes, will change and create a complex system of seasons that will be different in the different zones and islands in the map.For this reason, a lot of crop will depend on expecific seasons and will be better to think well when you will plant your crops.
 
 <p align="center">
