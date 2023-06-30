@@ -14,7 +14,7 @@ Aunque no es grato tener que añadir normas en el servidor, me veo obligado a cr
 - No usar autoclicker.
 - Respetar el medioambiente para evitar una destrucción masiva del mundo del servidor.
 
-## Explicación de convivencia:
+## About the game:
 
 Para la convivencia y supervivencia en este servidor, los jugadores tienen permitida la entrada a este las 24 horas durante los 7 días a la semana, si un jugador considera dejar de jugar por algún motivo y sabe que no volverá, el resto de estos podrán aprovecharse de los recursos y de las estructuras creadas por este.
 
