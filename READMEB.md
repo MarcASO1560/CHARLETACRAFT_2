@@ -35,7 +35,7 @@ For the convenience and the survival in this server, the "gay"mers may join 24 h
 </p>
 
 
-2. The map of CHARLETACRAFT 2 is located in a archipelago composed of 5 islands with the similar shape of a hand.There exist certain climatic norm as you could appreciate in the north of the map and the equatorial zone, being on one hand, a icy zone and the other destertic respectively. Between this two, we can find the changing biomes of the previously mentioned climates. The selection of where will you live, will be randomly decided by the your lucky. At the begging you may find yourself in the Nether unable to leave until someone rescues you, or you maybe end in a cherry blossom biome, where the conditions can be very refreshing.(This chaos of decisions will be explained by me later in the game).
+2. The map of CHARLETACRAFT 2 is located in an archipelago composed of 5 islands with a shape that resembles that of a hand. There exists certain climatic principles as you can see in the north of the map and the equatorial zone, being on one hand, aa icy zone and the other destertic respectively. Between these two, we can find transitional biomes of the previously mentioned climates. The decision of where you will live, is going to be randomly decided by your luck. At the begging you may find yourself in the Nether unable to leave until someone rescues you, or you may end in a cherry blossom biome, where the conditions can be very refreshing.(This chaos of decisions will be explained by me later in the game).
 
 <p align="center">
   <img width="800" height="1200" src="img/mapacharletacraft.png">
