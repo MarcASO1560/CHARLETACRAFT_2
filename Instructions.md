@@ -1,0 +1,3 @@
+# Instrucciones para instalar minecraft y los mods necesarios para charletacraft 2:
+
+Estas instrucciones están en construcción...
