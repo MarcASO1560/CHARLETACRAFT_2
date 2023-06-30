@@ -50,7 +50,7 @@ If a player chooses the incorrect door, they will be teleproted into a new envir
   <img width="800" height="400" src="img/puertas.png">
 </p>
 
-4. Inside the server...
+4. The server is made up of 93 mods, with which we have attempted to form an appropriate balance so that every player can have access smoothly:
 
 <p align="center">
   <img width="800" height="400" src="img/mod1.png">
