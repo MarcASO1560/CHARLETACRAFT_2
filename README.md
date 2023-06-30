@@ -17,3 +17,7 @@ Aunque no es grato tener que añadir normas en el servidor, me veo obligado a cr
 ## Explicación de convivencia:
 
 Para la convivencia y supervivencia en este servidor, los jugadores tienen permitida la entrada a este las 24 horas durante los 7 días a la semana, si un jugador considera dejar de jugar por algún motivo y sabe que no volverá, el resto de estos podrán aprovecharse de los recursos y de las estructuras creadas por este.
+
+Dentro del mundo de **CHARLETACRAFT 2** existen distintas islas con distintos climas y biomas. Durante las horas que irán pasando, la temperatura de ciertos biomas, cambiará y creará un sistema complejo de estaciones que será distinto en las distintas zonas e islas del mapa. En conseqüencia, muchos cultivos dependerán de ciertas estaciones y será preciso manejar con buenas manos todas las oportunidades de comida que se crucen por tu camino.
+
+El mapa de **CHARLETACRAFT 2** 
