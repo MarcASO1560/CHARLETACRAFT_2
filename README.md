@@ -39,7 +39,7 @@ Para la convivencia y supervivencia en este servidor, los jugadores tienen permi
   <img width="800" height="1200" src="img/mapacharletacraft.png">
 </p>
 
-3. En el inicio del servidor, será muy importante mantenerse en la isla donde se generarán todos los jugadores, debido a que se jugará a un juego de separación, los juegadores que quieran convivir conjuntamente, deberán mantenerse juntos delante de las adversidades y los eventos atrozes que se vayan presentando. El juego consistirá en un sistema de elección de 3 puertas, en la que deberás elegir la correcta para continuar con las siguientes pruebas donde también habrán otras puertas. Si un jugador pasa por una de las puertas incorrectas, este se teletransportará a un bioma sorpresa y desde ese momento empezará su aventura. (Obviamente no podrá volver al juego a no ser que voluntariamente quiera moverse hasta el spawn original)
+3. En el inicio del servidor, será muy importante mantenerse en la isla donde se generarán todos los jugadores, debido a que se jugará a un juego de separación, los juegadores que quieran convivir conjuntamente, deberán mantenerse juntos delante de las adversidades y los eventos atroces que se vayan presentando. El juego consistirá en un sistema de elección de 3 puertas, en la que deberás elegir la correcta para continuar con las siguientes pruebas donde también habrán otras puertas. Si un jugador pasa por una de las puertas incorrectas, este se teletransportará a un bioma sorpresa y desde ese momento empezará su aventura. (Obviamente no podrá volver al juego a no ser que voluntariamente quiera moverse hasta el spawn original)
 
 <p align="center">
   <img width="800" height="400" src="img/puertas.png">
