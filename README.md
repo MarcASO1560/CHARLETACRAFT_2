@@ -13,3 +13,5 @@ Aunque no es grato tener que añadir normas en el servidor, me veo obligado a cr
 - Uno no se puede aprovechar de hacks o bugs para conseguir beneficios en el juego.
 - No usar autoclicker.
 - Respetar el medioambiente para evitar una destrucción masiva del mundo del servidor.
+
+## Explicación de convivencia:
