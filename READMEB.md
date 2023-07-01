@@ -55,7 +55,3 @@ If a player chooses the incorrect door, they will be teleproted into a new envir
 <p align="center">
   <img width="800" height="400" src="img/mods.gif">
 </p>
-
-.post p {
-	text-align:justify;
-}
