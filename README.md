@@ -48,4 +48,4 @@ Para la convivencia y supervivencia en este servidor, los jugadores tienen permi
 4. Dentro del servidor se han añadido un total de **93 mods**, con los cuales hemos intentado crear un equilibrio correcto para que todo usuario pueda acceder a este sin muchos problemas:
 
 <p align="center">
-  <img width="800" height="400" src="img/mods.png">
+  <img width="800" height="400" src="img/mods.gif">
