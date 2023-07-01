@@ -53,15 +53,5 @@ If a player chooses the incorrect door, they will be teleproted into a new envir
 4. The server is made up of 93 mods, with which we have attempted to form an appropriate balance so that every player can have access smoothly:
 
 <p align="center">
-  <img width="800" height="400" src="img/mod1.png">
+  <img width="800" height="400" src="img/mods.gif">
 </p>
-<p align="center">
-  <img width="800" height="400" src="img/mod2.png">
-</p>
-<p align="center">
-  <img width="800" height="400" src="img/mod3.png">
-</p>
-<p align="center">
-  <img width="800" height="400" src="img/mod4.png">
-</p>
-
