@@ -1,3 +1,3 @@
-# Guía de instalación de mods y del juego.
+# Guía de instalación del juego y sus mods:
 
-En proceso...
+
