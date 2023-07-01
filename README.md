@@ -49,5 +49,10 @@ Para la convivencia y supervivencia en este servidor, los jugadores tienen permi
 
 <p align="center">
   <img width="800" height="400" src="img/mods.gif">
+</p>
 
 Las puertas del Nether estarán abiertas una vez hayan transcurrido 3 días reales. Aunque eso no quiere decir que por desgracia, puedas terminar dentro de este sin poder salir hasta que se habran las puertas que conectan los dos mundos.
+
+<p align="center">
+  <img width="800" height="400" src="img/nether.png">
+</p>
