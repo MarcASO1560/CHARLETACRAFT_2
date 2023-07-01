@@ -59,7 +59,7 @@ Para la convivencia y supervivencia en este servidor, los jugadores tienen permi
 
 ### Historia:
 
-En las tierras leganas de Concha Tumae, existe un pasado oscuro y maligno donde distintas tribus nativas de las distintas islas, sufrieron de una guerra de la que nádie sabe como comenzó
+En las tierras leganas de Concha Tumae, existe un pasado oscuro y maligno donde distintas tribus nativas de las distintas islas, sufrieron una guerra de la que nádie tiene casi idea, solo las viejas leyendas y algunos restos de esta, nos dice que tal batalla realmente ocurrió, más se dice que el mal que hacechó en el pasado podría estar resurgiendo de nuevo y probablemente se tenga que luchar de nuevo contra él... Por el alrededor del mapa, encontraréis estos indicios y puede que alguna sorpresa que puede ser tanto grata como insufrible. 
 
 <p align="center">
   <img width="800" height="400" src="img/historia1.png">
