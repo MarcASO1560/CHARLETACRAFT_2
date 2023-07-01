@@ -22,16 +22,7 @@ For the convenience and the survival in this server, the "gay"mers may join 24 h
 1. Inside the world of **CHARLETACRAFT 2** there exists different islands with different climates and biomes. During the gameplay hours, the temperature of some biomes will change, and create a complex system of seasons which will be different in various zones and islands in the map. For this reason, a lot of crop will depend on specific seasons. So it is crucial to think about when you will plant your crops.
 
 <p align="center">
-  <img width="800" height="400" src="img/primavera.png">
-</p>
-<p align="center">
-  <img width="800" height="400" src="img/verano.png">
-</p>
-<p align="center">
-  <img width="800" height="400" src="img/otoño.png">
-</p>
-<p align="center">
-  <img width="800" height="400" src="img/invierno.png">
+  <img width="800" height="400" src="img/temporadas.gif">
 </p>
 
 
@@ -54,4 +45,18 @@ If a player chooses the incorrect door, they will be teleproted into a new envir
 
 <p align="center">
   <img width="800" height="400" src="img/mods.gif">
+</p>
+
+5. The doors of the Nether will be open once 3 real days have passed. However, that does not mean, unfortunately, that you might end up inside it without being able to leave until the doors connecting the two worlds open. On the other hand, the portal to the End will always be open at all times, although of course it will have to be respected and agreed upon when the game's dragon will be killed, thus ending the story... or so you might be thinking. 
+
+<p align="center">
+  <img width="800" height="400" src="img/nehter.png">
+</p>
+
+### Lore:
+
+In the sleepy lands of Concha Tumae, there is a dark and evil past where different native tribes from the various islands suffered a war about which almost nobody has any idea, only the old legends and some remnants of it, tell us that such a battle actually occurred. Moreover, it is said that the evil that lurked in the past could be resurfacing again and it may have to be fought against once more... Around the map, you will find these clues and perhaps a surprise that could be either pleasant or unpleasant.
+
+<p align="center">
+  <img width="800" height="400" src="img/historia1.png">
 </p>
