@@ -51,8 +51,10 @@ Para la convivencia y supervivencia en este servidor, los jugadores tienen permi
   <img width="800" height="400" src="img/mods.gif">
 </p>
 
-5. Las puertas del Nether estarán abiertas una vez hayan transcurrido 3 días reales. Aunque eso no quiere decir que por desgracia, puedas terminar dentro de este sin poder salir hasta que se habran las puertas que conectan los dos mundos. En cambio, el portal del End, siempre estará abierto en todo momento aunque porsupuesto se se tendrá que respetar y pactar cuando se irá a matar a la dragona del juego y dar así fin a la historia... o eso pensáis.
+5. Las puertas del Nether estarán abiertas una vez hayan transcurrido 3 días reales. Aunque eso no quiere decir que por desgracia, puedas terminar dentro de este sin poder salir hasta que se habran las puertas que conectan los dos mundos. En cambio, el portal del End, siempre estará abierto en todo momento aunque porsupuesto se se tendrá que respetar y pactar cuando se irá a matar a la dragona del juego y dar así fin a la historia... o eso estaréis pensando.
 
 <p align="center">
   <img width="800" height="400" src="img/nehter.png">
 </p>
+
+### Historia:
