@@ -21,16 +21,7 @@ Para la convivencia y supervivencia en este servidor, los jugadores tienen permi
 1. Dentro del mundo de **CHARLETACRAFT 2** existen distintas islas con distintos climas y biomas. Durante las horas que irán pasando, la temperatura de ciertos biomas, cambiará y creará un sistema complejo de estaciones que será distinto en las distintas zonas e islas del mapa. En conseqüencia, muchos cultivos dependerán de ciertas estaciones y será preciso manejar con buenas manos todas las oportunidades de comida que se crucen por tu camino.
 
 <p align="center">
-  <img width="800" height="400" src="img/primavera.png">
-</p>
-<p align="center">
-  <img width="800" height="400" src="img/verano.png">
-</p>
-<p align="center">
-  <img width="800" height="400" src="img/otoño.png">
-</p>
-<p align="center">
-  <img width="800" height="400" src="img/invierno.png">
+  <img width="800" height="400" src="img/temporadas.gif">
 </p>
 
 2. El mapa de **CHARLETACRAFT 2** se ubica en un archipielago compuesto por 5 islas con una forma similar a la de una mano. Aquí dentro existen ciertas normas climaticas como se puede apreciar con la parte norte del mapa y la zona ecuatorial, siendo por una parte, una zona gélida y la otra desertica respectivamente. Entre estas dos, podemos encontrar los biomas cambiantes de climas comentados anteriormente. La selección de donde vivirán los jugadores será elegido aleatoriamente dependiendo de la suerte de este. Puede que de primeras, te encuetres encerrado en el Nether sin poder salir hasta que alguien te rescate, o que te toque vivir en un bioma de cerezo, donde las condiciones puedan ser muy refrescantes. (Este cáos de decisiones lo explicaré más adelante)
