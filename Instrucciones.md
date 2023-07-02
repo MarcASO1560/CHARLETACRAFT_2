@@ -27,3 +27,9 @@ Y cuando lo hayamos creado, podrás volver a la pestaña principal y iniciar el 
 <p align="center">
   <img width="800" height="600" src="img/tutorial/InicioJuego.png">
 </p>
+
+Ahora lo que simplemente tenemos que hacer, es abrir el juego una sola vez y probar el juego, por tanto, iniciad el juego y seguidamente cread un mundo nuevo:
+
+<p align="center">
+  <img width="800" height="400" src="img/tutorial/JuegoNormal.png">
+</p>
