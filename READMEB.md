@@ -1,6 +1,6 @@
 ![CharletaCraft2](img/charleta2.png)
 
-This server was created for the people of ![charleta](https://discord.gg/WDTVtWJb). discord server. Made with love so that the players can enjoy this experience of fun and destruction for a few weeks.
+This server was created for the people of [charleta](https://discord.gg/WDTVtWJb). discord server. Made with love so that the players can enjoy this experience of fun and destruction for a few weeks.
 
 Although it is not pleasent to add rules to the server, I see myself forced to create a list with 8 mandates with which the "gay"mers will have an acceptable conduct that will let them breath without thinking that someone is going to destroy their house like Johnny Sins does with your mother's ass🥵🥵🥵.
 
