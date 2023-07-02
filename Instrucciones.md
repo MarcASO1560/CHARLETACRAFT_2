@@ -33,3 +33,7 @@ Ahora lo que simplemente tenemos que hacer, es abrir el juego una sola vez y pro
 <p align="center">
   <img width="800" height="500" src="img/tutorial/JuegoNormal.png">
 </p>
+
+Una vez comprobado que todo está en orden y que el juego funciona correctamente, vamos a instalar los mods.
+
+## 2. Instalación de los mods
