@@ -19,5 +19,5 @@ Podemos empezar seleccionando la versión del juego que vamos a modificar, para 
 Dentro de la configuración de la nueva instalación deberás tener la siguiente información escrita:
 
 <p align="center">
-  <img width="800" height="600" src="img/tutorial/nuevaInstalacion.png">
+  <img width="800" height="600" src="img/tutorial/NuevaInstalacion1.png">
 </p>
