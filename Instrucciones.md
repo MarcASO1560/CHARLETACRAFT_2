@@ -45,4 +45,4 @@ Para organizar todo el tema de los archivos, aquí os dejo [un enlace a drive co
 </p>
 
 - Ahora mismo la carpeta que más nos interesa es la de [Java](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing), donde, más que nada, necesito asegurar que todo funcione como es debido. Ya que es probable, que aunque el juego haya funcionado en su estado normal, a la hora de insertar los mods, puede fallar y dar muchos dolores de cabeza.
-- Dentro de la **Carpeta de Java** Encontramos dos archivos distintos, uno que contiene [Java Cliente](https://www.java.com/en/) y otro que contiene la versión de Java para desarrolladores o [SDK](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html) con la que funciona Minecraft de costumbre.
+- Dentro de la **Carpeta de Java** Encontramos dos archivos distintos, uno que contiene [Java Cliente](https://www.java.com/en/) y otro que contiene la versión de Java para desarrolladores o [JDK](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html) con la que funciona **Minecraft** de costumbre.
