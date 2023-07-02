@@ -38,4 +38,4 @@ Una vez comprobado que todo está en orden y que el juego funciona correctamente
 
 ## 2. Instalación de los mods:
 
-Para organizar todo el tema de los archivos, aquí os dejo un ![enlace a un drive con distintas carpetas.](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing)
+Para organizar todo el tema de los archivos, aquí os dejo un ![enlace a un drive con distintas carpetas](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing)
