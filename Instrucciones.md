@@ -2,7 +2,7 @@
 
 ## 1. Instalación del juego:
 
-Para hacer una instalación correcta del juego, primero necesitas comprar Minecraft, debido a que este servidor se encuentra en estado **premium** por lo que si no tienes el juego y quieres comprarlo, aquí te dejo un ![link](https://www.minecraft.net/es-es/store/minecraft-deluxe-collection-pc) para que puedas hacerlo.
+Para hacer una instalación correcta del juego, primero necesitas comprar Minecraft, debido a que este servidor se encuentra en estado **premium** por lo que si no tienes el juego y quieres comprarlo, aquí te dejo  [un link para que puedas hacerlo.](https://www.minecraft.net/es-es/store/minecraft-deluxe-collection-pc)
 
 Una vez tengas el launcher del juego, que se verá como en la siguiente imagen:
 
