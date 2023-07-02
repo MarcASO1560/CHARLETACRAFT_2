@@ -48,5 +48,5 @@ Para organizar todo el tema de los archivos, aquí os dejo [un enlace a drive co
 - Dentro de la **Carpeta de Java** Encontramos dos archivos distintos, uno que contiene [Java Cliente](https://www.java.com/en/) y otro que contiene la versión de Java para desarrolladores o [JDK](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html) con la que funciona **Minecraft** de costumbre.
 
 <p align="center">
-  <img width="800" height="300" src="img/tutorial/javaVersions.png">
+  <img width="600" height="300" src="img/tutorial/javaVersions.png">
 </p>
