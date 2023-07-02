@@ -64,3 +64,5 @@ Para organizar todo el tema de los archivos, aquí os dejo [un enlace a drive co
 </p>
 
 Es importante, a partir de este punto, que puede ser muy recomendado que reinicie el ordenador.
+
+## 3. Instalación de Forge:
