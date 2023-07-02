@@ -6,4 +6,6 @@ Para hacer una instalación correcta del juego, primero necesitas comprar Minecr
 
 Una vez tengas el launcher del juego, que se verá como en la siguiente imagen:
 
-
+<p align="center">
+  <img width="800" height="600" src="img/tutorial/launcher1.png">
+</p>
