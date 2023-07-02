@@ -6,9 +6,9 @@ To correctly install the game, first you need to buy Minecraft, since this serve
 
 Once we have installed the game's launcher, it will look like the following image: 
 
-
-
-
+<p align="center">
+  <img width="800" height="600" src="img/tutorial/launcher.png">
+</p>
 
 We have to start by selecting the game version that we will modify, to do so we choose the **Instalations** (Instalaciones in the image) tab and create a new installation:
 
