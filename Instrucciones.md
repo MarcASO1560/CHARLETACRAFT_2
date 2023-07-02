@@ -79,9 +79,11 @@ Le damos a **OK** y en principio se tendría que instalar en la carpeta donde te
 
 En este punto, deberás instalar, de la carpeta de drive, toda la carpeta de mods en algun sítio que te sea fácil ubicar ya sea el escritorio o alguna carpeta vacía... El caso es que ahora, vamos a buscar el directorio donde se ubican todos los archivos del juego. Para ello vamos a hacer lo siguiente:
 - Primero pulsa el comando **Win + R** y escribe **%appdata%**:
+
 <p align="center">
   <img width="400" height="230" src="img/tutorial/appdata.png">
 </p>
+
 - Luego, accede denttro de la carpeta **.minecraft**:
 - Dentro de esa carpeta, en caso de que no exista, deberás crear una carpeta nueva que se va a llamar **mods**:
 - Y por ultimo, meteremos todos los mods descargados, dentro de dicha carpeta:
