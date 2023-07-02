@@ -54,7 +54,7 @@ Para organizar todo el tema de los archivos, aquí os dejo [un enlace a drive co
 - Primero vamos a instalar el **JDK**, por lo tanto, ejecutad el archivo y lo instalais como un programa cualquiera:
 
 <p align="center">
-  <img width="800" height="700" src="img/tutorial/Java19.png">
+  <img width="600" height="500" src="img/tutorial/Java19.png">
 </p>
 
 - Luego, para asegurar, hacemos lo mismo pero con el **Java 8** y lo instalamos:
