@@ -70,5 +70,5 @@ Es importante, a partir de este punto, que puede ser muy recomendado que reinici
 Para instalar Forge nos dirigiremos a la carpeta de Drive que pone literalmente [Forge](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing) y lo instalaremos también en el pc. (Importante recalcar que hay que ejecutarlo, no ponerlo dentro de ninguna carpeta)
 
 <p align="center">
-  <img width="800" height="450" src="img/tutorial/Forge.png">
+  <img width="400" height="450" src="img/tutorial/Forge.png">
 </p>
