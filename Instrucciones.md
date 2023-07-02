@@ -9,3 +9,10 @@ Una vez tengas el launcher del juego, que se verá como en la siguiente imagen:
 <p align="center">
   <img width="800" height="600" src="img/tutorial/launcher.png">
 </p>
+
+Podemos empezar seleccionando la versión del juego que vamos a modificar, para ello deberemos dirigirnos a la pestaña de **Instalaciones** y crear una nueva instancia:
+
+<p align="center">
+  <img width="800" height="600" src="img/tutorial/Instalaciones.png">
+</p>
+
