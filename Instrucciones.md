@@ -97,3 +97,8 @@ En este punto, deberás instalar, de la carpeta de drive, toda la carpeta de mod
 </p>
 
 - Y por ultimo, meteremos todos los mods descargados, dentro de dicha carpeta:
+
+
+<p align="center">
+  <img width="600" height="550" src="img/tutorial/mods2.png">
+</p>
