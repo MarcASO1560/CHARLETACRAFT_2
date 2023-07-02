@@ -84,13 +84,13 @@ En este punto, deberás instalar, de la carpeta de Drive, toda la carpeta de [mo
   <img width="400" height="230" src="img/tutorial/appdata.png">
 </p>
 
-- Luego, accede denttro de la carpeta **.minecraft**:
+- Luego, accede dentro de la carpeta **.minecraft**:
 
 <p align="center">
   <img width="600" height="550" src="img/tutorial/puntomine.png">
 </p>
 
-- Dentro de esa carpeta, en caso de que no exista, deberás crear una carpeta nueva que se va a llamar **mods**:
+- Dentro de esa carpeta, encontraremos una carpeta llamada **mods**, en caso de que no exista, deberás crear una carpeta nueva que se va a llamar **mods**:
 
 <p align="center">
   <img width="600" height="550" src="img/tutorial/mods.png">
@@ -105,13 +105,13 @@ En este punto, deberás instalar, de la carpeta de Drive, toda la carpeta de [mo
 
 ## 5. Configuración dentro de minecraft:
 
-Ahora que lo tenemos todo listo, podemos volver a abrir el launcher de minecraft:
+Ahora que lo tenemos todo listo, podemos volver a abrir el **Launcher de Minecraft**:
 
 <p align="center">
   <img width="800" height="650" src="img/tutorial/launcher5.png">
 </p>
 
-Pero antes, tenemos que modificar **Forge** para que pueda iniciar con más que 2GB de RAM (El mínimo requerido son 4GB). Por lo tanto, nos dirigimos de nuevo al apartado de **Instalaciones** y le damos a editar la instalación con el símbolo con **Forge**:
+Pero antes, tenemos que modificar **Forge** para que pueda iniciar con más que 2GB de RAM (el mínimo requerido son 4GB). Por lo tanto, nos dirigimos de nuevo al apartado de **Instalaciones** y le damos a editar la instalación con el símbolo con **Forge**:
 
 <p align="center">
   <img width="800" height="650" src="img/tutorial/editarForge.png">
