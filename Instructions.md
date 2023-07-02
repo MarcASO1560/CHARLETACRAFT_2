@@ -12,26 +12,27 @@ Once we have installed the game's launcher, it will look like the following imag
 
 We have to start by selecting the game version that we will modify, to do so we choose the **Instalations** (Instalaciones in the image) tab and create a new installation:
 
-
-
-
+<p align="center">
+  <img width="800" height="600" src="img/tutorial/Instalaciones.png">
+</p>
 
 Inside the configuration of the new installation you should see the following information:
 
-
-
-
+<p align="center">
+  <img width="800" height="600" src="img/tutorial/NuevaInstalacion1.png">
+</p>
 
 Once we have created it, you can go back to the main tab and start the game with the newly created version:
 
-
-
-
+<p align="center">
+  <img width="800" height="600" src="img/tutorial/InicioJuego.png">
+</p>
 
 Now all that we need to do is, open the game once and try it. So, start the game and create a new world:
 
-
-
-
+<p align="center">
+  <img width="600" height="400" src="img/tutorial/JuegoNormal.png">
+</p>
 
 Once we have checked that everything is in order and that the games works correctly, we will instal the mods.
+
