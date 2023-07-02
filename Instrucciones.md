@@ -116,3 +116,13 @@ Pero antes, tenemos que modificar **Forge** para que pueda iniciar con más que 
 <p align="center">
   <img width="800" height="650" src="img/tutorial/editarForge.png">
 </p>
+
+Y le cambiamos los **Argumentos JVM** con el siguiente comando:
+```
+-Xmx6G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+```
+
+---
+
+Y con esto quedaría finalizada la guía de instalación, disfrutad del servidor.
+
