@@ -62,3 +62,5 @@ Para organizar todo el tema de los archivos, aquí os dejo [un enlace a drive co
 <p align="center">
   <img width="800" height="450" src="img/tutorial/Java8.png">
 </p>
+
+Es importante, a partir de este punto, que puede ser muy recomendado que reinicie el ordenador.
