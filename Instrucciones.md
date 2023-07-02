@@ -102,3 +102,17 @@ En este punto, deberás instalar, de la carpeta de drive, toda la carpeta de [mo
 <p align="center">
   <img width="600" height="550" src="img/tutorial/mods2.png">
 </p>
+
+## 5. Configuración dentro de minecraft:
+
+Ahora que lo tenemos todo listo, podemos volver a abrir el launcher de minecraft:
+
+<p align="center">
+  <img width="800" height="600" src="img/tutorial/launcher5.png">
+</p>
+
+Pero antes, tenemos que modificar **Forge** para que pueda iniciar con más que 2GB de RAM (El mínimo requerido son 4GB). Por lo tanto, nos dirigimos de nuevo al apartado de **Instalaciones** y le damos a editar la instalación con el símbolo con **Forge**:
+
+<p align="center">
+  <img width="800" height="600" src="img/tutorial/editarForge.png">
+</p>
