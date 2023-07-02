@@ -77,7 +77,7 @@ Le damos a **OK** y en principio se tendría que instalar en la carpeta donde te
 
 ## 4. Instalación de los mods del servidor:
 
-En este punto, deberás instalar, de la carpeta de drive, toda la carpeta de mods en algun sítio que te sea fácil ubicar ya sea el escritorio o alguna carpeta vacía... El caso es que ahora, vamos a buscar el directorio donde se ubican todos los archivos del juego. Para ello vamos a hacer lo siguiente:
+En este punto, deberás instalar, de la carpeta de drive, toda la carpeta de [mods](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing) en algun sítio que te sea fácil ubicar ya sea el escritorio o alguna carpeta vacía... El caso es que ahora, vamos a buscar el directorio donde se ubican todos los archivos del juego. Para ello vamos a hacer lo siguiente:
 - Primero pulsa el comando **Win + R** y escribe **%appdata%**:
 
 <p align="center">
