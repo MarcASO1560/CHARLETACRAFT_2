@@ -124,5 +124,7 @@ Y le cambiamos los **Argumentos JVM** con el siguiente comando:
 
 ---
 
-Y con esto quedaría finalizada la guía de instalación, disfrutad del servidor.
+### Y con esto quedaría finalizada la guía de instalación, disfrutad del servidor :)
+
+Si hubiera algún problema con el juego y los mods, no tardes en comunicarlo en el [servidor de discord.](https://discord.gg/WDTVtWJb)
 
