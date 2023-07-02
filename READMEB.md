@@ -57,7 +57,7 @@ If a player chooses the incorrect door, they will be teleproted into a new envir
 
 ### Lore:
 
-In the sleepy lands of **Concha Tumae**, there is a dark and evil past where different native tribes from the various islands suffered a war about which almost nobody has any idea, only the old legends and some remnants of it, tell us that such a battle actually occurred. Moreover, it is said that the evil that lurked in the past could be resurfacing again and it may have to be fought against once more... Around the map, you will find these clues and perhaps a surprise that could be either pleasant or unpleasant.
+In the sleepy lands of **Concha Tumae**, there is a dark and evil past where different native tribes from the various islands suffered a war that was lost in time, only the old legends and some remnants of it, tell us that such a battle actually occurred. Moreover, it is said that the evil that lurked in the past could be resurfacing again and it may have to be fought against once more... Around the map, you will find these clues and perhaps a surprise that could be either pleasant or unpleasant.
 
 <p align="center">
   <img width="800" height="400" src="img/historia1.png">
