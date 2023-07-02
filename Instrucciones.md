@@ -85,5 +85,10 @@ En este punto, deberás instalar, de la carpeta de drive, toda la carpeta de mod
 </p>
 
 - Luego, accede denttro de la carpeta **.minecraft**:
+
+<p align="center">
+  <img width="600" height="600" src="img/tutorial/puntomine.png">
+</p>
+
 - Dentro de esa carpeta, en caso de que no exista, deberás crear una carpeta nueva que se va a llamar **mods**:
 - Y por ultimo, meteremos todos los mods descargados, dentro de dicha carpeta:
