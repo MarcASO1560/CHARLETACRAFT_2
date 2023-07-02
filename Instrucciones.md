@@ -21,3 +21,9 @@ Dentro de la configuración de la nueva instalación deberás tener la siguiente
 <p align="center">
   <img width="800" height="600" src="img/tutorial/NuevaInstalacion1.png">
 </p>
+
+Y cuando lo hayamos creado, podrás volver a la pestaña principal y iniciar el juego con la versión creada por tí:
+
+<p align="center">
+  <img width="800" height="600" src="img/tutorial/InicioJuego.png">
+</p>
