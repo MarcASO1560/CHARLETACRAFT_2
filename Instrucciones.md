@@ -38,4 +38,8 @@ Una vez comprobado que todo está en orden y que el juego funciona correctamente
 
 ## 2. Instalación de los mods:
 
-Para organizar todo el tema de los archivos, aquí os dejo un [enlace a un drive con distintas carpetas](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing)
+Para organizar todo el tema de los archivos, aquí os dejo [un enlace a drive con distintas carpetas](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing) que deberían verse tal que así:
+
+<p align="center">
+  <img width="800" height="400" src="img/tutorial/JuegoNormal.png">
+</p>
