@@ -60,5 +60,5 @@ Para organizar todo el tema de los archivos, aquí os dejo [un enlace a drive co
 - Luego, para asegurar, hacemos lo mismo pero con el **Java 8** y lo instalamos:
 
 <p align="center">
-  <img width="800" height="400" src="img/tutorial/Java8.png">
+  <img width="800" height="450" src="img/tutorial/Java8.png">
 </p>
