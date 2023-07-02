@@ -67,17 +67,17 @@ Es importante, a partir de este punto, que puede ser muy recomendado que reinici
 
 ## 3. Instalación de Forge:
 
-Para instalar Forge nos dirigiremos a la carpeta de Drive que pone literalmente [Forge](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing) y lo instalaremos también en el pc. (Importante recalcar que hay que ejecutarlo, no ponerlo dentro de ninguna carpeta)
+Para instalar **Forge** nos dirigiremos a la carpeta de Drive que pone literalmente [Forge](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing) y lo instalaremos también en el pc. (Importante recalcar que hay que ejecutarlo, no ponerlo dentro de ninguna carpeta)
 
 <p align="center">
   <img width="450" height="450" src="img/tutorial/Forge.png">
 </p>
 
-Le damos a **OK** y en principio se tendría que instalar en la carpeta donde tenemos minecraft instalado.
+Le damos a **OK** y en principio se tendría que instalar en la carpeta donde tenemos **Minecraft** instalado.
 
 ## 4. Instalación de los mods del servidor:
 
-En este punto, deberás instalar, de la carpeta de drive, toda la carpeta de [mods](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing) en algun sítio que te sea fácil ubicar ya sea el escritorio o alguna carpeta vacía... El caso es que ahora, vamos a buscar el directorio donde se ubican todos los archivos del juego. Para ello vamos a hacer lo siguiente:
+En este punto, deberás instalar, de la carpeta de Drive, toda la carpeta de [mods](https://drive.google.com/drive/folders/1qgNKS9qWQXf8tUvSjGfNlCQWvLEJWtbP?usp=sharing) en algun sítio que te sea fácil ubicar ya sea el escritorio o alguna carpeta vacía... El caso es que ahora, vamos a buscar el directorio donde se ubican todos los archivos del juego. Para ello vamos a hacer lo siguiente:
 - Primero pulsa el comando **Win + R** y escribe **%appdata%**:
 
 <p align="center">
